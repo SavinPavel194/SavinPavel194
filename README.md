@@ -1,37 +1,48 @@
-Добрый день!
-
-С удовольствием рассмотрю предложения по удаленной работе.
-
-Имею большой опыт работы в сфере ИТ.
-Умею администрировать Linux и Windows Server.
-Понимаю методологию DevOps в разработке ПО.
-Понимаю CI/CD процессы.
-Понимаю цикл разработки ПО.
-Умею создавать в Yandex.Cloud, CloudMTS, VK Cloud, Beeline Cloud цифровые сервисы.
-Знаком с SQL и PL/SQL в рамках использования СУБД MySQL, PostgreSQL и Oracle Database .
-Умею писать скрипты на Python, Golang, Bash.
-Знаком с облачными платформами: AWS, GCP,
-Azure, Digital Ocean в рамках курсов и имею соответствующие сертификаты.
-Понимаю принципы работы K8s, Docker, Ansible, Terraform.
-Есть базовые навыки работы с инструментами тестирования Postman, Apache JMeter.
-Знаю основные виды тестирования.
-Имею опыт подготовки тест-планов, тест-кейсов, сценариев тестирования.
-Понимаю основы системного анализа, а также проектирование интеграций в стиле REST.
-Имею опыт тестирования API.Навыки ручного тестирования подтверждены соответствующим сертификатом.
-Обладаю знаниями об основных способов хранения и обработки больших объемов данных (Big Data), на примере работы Apache Hadoop, имею соответствующий сертификат.
-Имею опыт работы в Jira и Confluence.
-Имею опыт выпуска и настройки ЭЦП, работы с крипто провайдерами.
-Знаком с HTML, CSS, JavaScript.
-Имею опыт работы в Naumen Service Desk,HP SM,1С ИТИЛИУМ.
 
 
-Мои pet-проекты и сертификаты: https://cloud.mail.ru/public/fiTE/8JhAgu9Ww
-https://cloud.mail.ru/public/G4D2/2qvSVmpot
+👨🏻‍💻
+Area of expertise:
+💻🖱️
+Hard skills:
+• System Administration: Linux, Windows Server
+• DevOps in Software development (certification from Yandex.Cloud)
+• Cloud Computing Architecture (Sber.Cloud certification)
+• Certified Enterprise Architect (all levels)
+• Product Management (knowledge and certification)
+• CI/CD (GitLab CI, ArgoCD, Jenkins)
+• K8s Administration, Docker, Ansible, Terraform
+• Creation of digital services in Sber.Cloud, Yandex.Cloud, VK Cloud
+• SQL, PL/SQL, NoSQL (MySQL, PostgreSQL, Tarantool, Oracle Database, MongoDB)
+• Automation scripts in Python, Golang, Lua, Ruby,🦀
+• API Testing Tools : Postman, Apache JMeter, Swagger
+• Preparation of test plans, test cases, test scenarios, technical specifications
+• Apache Kafka, RabbitMQ, and WebSphere MQ message Brokers
+• System analysis, design of REST and SOAP style integrations, setting a software development task (certification from Ingosstrakh, VK)
+• BI-analytics (certification from the Analytical Workspace Academy)📊
+• Processing of large amounts of data (BigData) using the Hadoop system (certification from VK), Blockchain
+• Jira, Confluence, Yandex Tracker
+• Release and setup of EDS, work with crypto providers
+• Naumen Service Desk, HP SM, 1C ITILIUM, Citrix
+
+⚙️🤖🦾
+Soft skills:
+• High level of soft skills - almost a psychologist, high level of stress resistance.
+• I have leadership qualities and developed communication skills. He is able to work both in a team and independently. I know the norms of business correspondence, ethics and culture of business communication. I know how to argue my position and take responsibility for the result.
+
+I spend a lot of time on self-education. I'm not afraid of new fields and technologies for myself, I'm learning fast. I will be glad to see a team that puts development as one of the priorities.
+P.S. if I don't know something, I have:
+-understanding where to find the information I need;
+-time and desire to search for this information.
+
+Work experience:
+Diverse work experience in various companies.
+💼
+My portfolio:
+https://cloud.mail.ru/public/fiTE/8JhAgu9Ww
 
 
-Уверен, что мой опыт и навыки будут полезны Вашей компании. Все мои навыки подтверждены дипломами, сертификатами и pet-проектами.
-Буду рад в рамках собеседования ответить на все интересующие Вас вопросы.
-Заранее благодарю Вас за внимание.
+Hobbies: psychology, cooking, astronomy, physics, philology.
+
 
 
 ssavinpavel2013@yandex.ru
